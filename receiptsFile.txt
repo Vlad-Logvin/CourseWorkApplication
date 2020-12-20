@@ -1,0 +1,46 @@
+63153941 4 7581.99 2020 12 13 14 37 50
+Smartphone 4199 Device Samsung_Galaxy_Z_Flip Autofocus,_built-in_flash Korea 73523499
+E-book 498 Device ONYX_BOOX E-lnk_Carta_Plus China 95929193
+PlayStation_4 1029.99 Device SONY AMD_Jaguar_x86-64 China 15542323
+Computer 1855 Device HAFF Windows_10 Belarus 95324786
+47901020 5 7891.99 2020 12 13 15 49 6
+TV 3456 Device Samsung Samsung_Smart_TV Korea 67865432
+Power_supply 89 Device Ginzzu CPU_4_pin,_CPU_8_pin,_IDE_4_pin,_SATA,_VGA_6_pin,_VGA_8_pin China 46789832
+Washer 1299.99 Home_appliances Bosch Automatic_and_free-standing Germany 58274532
+Notebook 2994 Device ASUS Gaming_notebook China 75432696
+Portable_device 53 Device XIAOMY 20000_mAh China 13456765
+47901020 5 6522 2020 12 13 15 49 26
+E-book 498 Device ONYX_BOOX E-lnk_Carta_Plus China 95929193
+Robot_vacuum_cleaner 2550 Home_appliances Miele_Scout Remote_control Korea 32847281
+Virtual_reality_glasses 3299 Gadget HTC Sensor_IPD China 91348294
+Fitness_trackers 45 Gadget XIAOMY Protection_from_water China 93757127
+Heater 130 Home_appliences Timberk Mechanical China 19347854
+47901020 4 5586.5 2020 12 13 15 49 51
+Multicooker 699.5 Home_appliances Tefal Stylish_appereance_and_easy_to_use Russia 23327483
+Smartphone 4199 Device Samsung_Galaxy_Z_Flip Autofocus,_built-in_flash Korea 73523499
+Video_card 209 Device MSI_GeForce_GT NVIDIA,_DDR3 China 18347419
+Headphones 479 Device Samsung True_wireless Korea 94993921
+47901020 3 2778.12 2020 12 13 18 25 29
+Steamer 207 Home_applicances Kitfort Mechanical_control China 87654325
+Robot_vacuum_cleaner 2550 Home_appliances Miele_Scout Remote_control Korea 32847281
+thermometer 21.12 Device OMRON Electric China 13467435
+84103721 8 4821.8 2020 12 13 17 36 12
+Boiler 656 Home_appliences Ariston Led_error_diagnostics,_programming_function Russia 44565760
+E-book 498 Device ONYX_BOOX E-lnk_Carta_Plus China 95929193
+Electric_toothbrush 179 Device PHILIPS 31000_movements_per_minute China 45748976
+RAM 135 Device HyperX_Fury DDR_DIMM China 56576432
+Computer_mouse 19.9 Device JetA_Comfort Wireless,_red China 28487831
+Storage_card_microSD 25 Device Samsung 32_GB Korea 34546768
+Cooling_system 9.9 Device COOLERMASTER Case_cooler China 97654259
+Virtual_reality_glasses 3299 Gadget HTC Sensor_IPD China 91348294
+84103721 5 812 2020 12 14 10 16 27
+Microphone 39.99 Device SONY For_karaoke_and_vocals China 48192930
+E-book 498 Device ONYX_BOOX E-lnk_Carta_Plus China 95929193
+Power_supply 89 Device Ginzzu CPU_4_pin,_CPU_8_pin,_IDE_4_pin,_SATA,_VGA_6_pin,_VGA_8_pin China 46789832
+Keyboard 55.01 Device Defender_Stainless Well-designed_design China 85748911
+Heater 130 Home_appliences Timberk Mechanical China 19347854
+85587601 4 2239.3 2020 12 13 15 42 49
+Vacuum_cleaner 289 Home_appliences Samsung Light_weight_and_dimensions,_low_noise,_comfortable_handle,_quality_workmanship Vietnam 19472878
+Shaver 216.3 Device BRAUN Grid Germany 12872093
+Scanner 905 Device CANON 20_pages_per_minute Japan 82345645
+3D-Printer 829 Device Creality FDM_printer China 12389413
